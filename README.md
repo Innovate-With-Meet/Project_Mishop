@@ -39,7 +39,7 @@ Only Authorised User have access to the Special Features like getting pin point 
 ### <h3> Sub Primary Features</h3>
 
 Spreading Awarness regarding the forest-incident-precautions.
---- Also define the community program like tree plantation-take care of wildlife and tree and other things regarding forest.
+- Also define the community program like tree plantation-take care of wildlife and tree and other things regarding forest.
 
 Use cases: validate the confirm fire incidents and avoid the rumeor via satelite imageing and close cordination with the other agency.
 
