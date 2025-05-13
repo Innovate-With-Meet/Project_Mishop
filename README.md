@@ -36,6 +36,11 @@ Wild Fire Prediction Based On past data,
 Authority User Login: Authority have access to specilised features that can help them to manage the task like evec, Search & Rescue, Crowd Management, etc,
 Only Authorised User have access to the Special Features like getting pin point accuracy data to avoid any misinformation and also spreading misinformation to the community.
 
+### <h3> Sub Primary Features</h3>
+
+Spreading Awarness regarding the forest-incident-precautions.
+--- Also define the community program like tree plantation-take care of wildlife and tree and other things regarding forest.
+
 Use cases: validate the confirm fire incidents and avoid the rumeor via satelite imageing and close cordination with the other agency.
 
 WorkFlow: First Done the Main Components For Fire Prediction by location: after that Add User.
