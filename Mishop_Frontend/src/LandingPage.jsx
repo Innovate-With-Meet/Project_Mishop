@@ -1,12 +1,12 @@
 import React from 'react';
 import WildFire1 from "./Images/WildFire1.jpg";
-
+import WildFire2 from "./Images/Wildfire2.gif"
 export const LandingPage = () => {
     return (
         <div style={{ position: 'relative', width: '100vw', height: '100vh' }}>
             <img
-                src={WildFire1}
-                alt='Wild Fire 1'
+                src={WildFire2}
+                alt='Wild Fire 2'
                 style={{
                     position: 'fixed',
                     top: 0,
@@ -19,10 +19,9 @@ export const LandingPage = () => {
             />
             <h1
                 style={{
-                    position: 'absolute',
-                    top: '50%',
-                    left: '50%',
-                    transform: 'translate(-50%, -50%)',
+                    position: 'fixed',
+                    bottom: '10%', // Adjusts the distance from the bottom
+                    right: '5%', // Adjusts the distance from the left
                     color: 'rgb(240, 168, 14)',
                     fontSize: '3rem',
                     textShadow: '2px 2px 4px rgba(235, 16, 16, 0.7)',
@@ -32,7 +31,7 @@ export const LandingPage = () => {
                     mixBlendMode: 'screen' // Optional: Blends the text with the image
                 }}
             >
-                Project_Mishop For Wild Fire
+                Project_Mishop For Save Our Forest
             </h1>
         </div>
     );
