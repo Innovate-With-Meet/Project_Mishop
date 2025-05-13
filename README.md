@@ -13,3 +13,5 @@ Machine Learning For process-train-deploy model: "Python-Scikit-pandas-numpy-mat
 Data Sources For Model Input: {{[Satellite Data-NASA MODIS, ISRO BHUVAN, Google Earth Engine}}], {{[WeatherData-OpenWeatherMap API, IMD (India)]}}, {{[Vegetation Index-NDVI from Earth Engine or MODIS]}}, {{[Elevation/Map Data-	OpenStreetMap, DEM data]}}
 
 Backend (Server & API): Django + Django Rest Framework(to serve predictions as JSON) (API) + Model Prediction Code Use ML model saved via joblib or pickle.
+
+<h3> define the features and workflow of the application </h3>
