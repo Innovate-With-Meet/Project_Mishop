@@ -22,7 +22,7 @@ Ideas: Their Are 4 targeted user in the ecosystem:
 4.) Public Authority, 
 5.) Local End User.
 
-The Every User Has their own Needs, Dashboards, Notifications, Updates,
+The Every User Has their own Needs, Dashboards, Notifications, Updates, ex: Forest Officer can identify the fire is happenig by the system analyze, he/she inform the other authority about that, target the specific area do the all precaution like water spreading, evac, wild life rescue etc.
 
 Use cases: validate the confirm fire incidents and avoid the rumeor via satelite imageing and close cordination with the other agency.
 
