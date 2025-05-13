@@ -7,3 +7,6 @@ The Mishop is a Project For Preventing the WildFire Acrose India Before It Happe
 Front-End For Website Inter: Html, Css, Js, Leafeft.js( For Map Marker And Tools), Chartjs, react.
 
 Machine Learning For process-train-deploy model: "Python-Scikit-pandas-numpy-matplotlib-TensorFlow-Pytorch-Model & Tech.
+
+Data Sources For Model Input: {{[Satellite Data-NASA MODIS, ISRO BHUVAN, Google Earth Engine}}], {{[WeatherData-OpenWeatherMap API, IMD (India)]}}, {{[Vegetation Index-NDVI from Earth Engine or MODIS]}}, {{[Elevation/Map Data-	OpenStreetMap, DEM data]}}
+
