@@ -1,1 +1,2 @@
-
+Use the One Day before data, Rea time process is not possible.  For Ex: User can see the data on 1 may while data is process on 25 april, and incident going to happend on 
+10 May.
