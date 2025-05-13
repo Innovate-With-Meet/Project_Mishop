@@ -15,3 +15,15 @@ Data Sources For Model Input: {{[Satellite Data-NASA MODIS, ISRO BHUVAN, Google 
 Backend (Server & API): Django + Django Rest Framework(to serve predictions as JSON) (API) + Model Prediction Code Use ML model saved via joblib or pickle.
 
 <h3> define the features and workflow of the application </h3>
+Ideas: Their Are 4 targeted user in the ecosystem: 
+1.) Forest Dept, 
+2.) Fire Dept, 
+3.) Police Dept, 
+4.) Public Authority, 
+5.) Local End User.
+
+The Every User Has their own Needs, Dashboards, Notifications, Updates,
+
+Use cases: validate the confirm fire incidents and avoid the rumeor via satelite imageing and close cordination with the other agency.
+
+WorkFlow: First Done the Main Components For Fire Prediction by location: after that Add User.
