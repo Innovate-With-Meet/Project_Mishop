@@ -5,4 +5,5 @@ The Mishop is a Project For Preventing the WildFire Acrose India Before It Happe
 <h3> Tech Stack </h3>
 
 Front-End For Website Inter: Html, Css, Js, Leafeft.js( For Map Marker And Tools), Chartjs, react.
+
 Machine Learning For process-train-deploy model: "Python-Scikit-pandas-numpy-matplotlib-TensorFlow-Pytorch-Model & Tech.
