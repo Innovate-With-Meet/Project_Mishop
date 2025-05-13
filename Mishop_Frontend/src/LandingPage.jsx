@@ -22,12 +22,12 @@ export const LandingPage = () => {
                     position: 'fixed',
                     bottom: '10%', // Adjusts the distance from the bottom
                     right: '5%', // Adjusts the distance from the left
-                    color: 'rgb(240, 168, 14)',
+                    color: 'rgb(109, 93, 59)',
                     fontSize: '3rem',
                     textShadow: '2px 2px 4px rgba(235, 16, 16, 0.7)',
                     backgroundColor: 'rgba(0, 0, 0, 0.84)', // Semi-transparent background
-                    padding: '1rem 2rem', // Adds padding around the text
-                    borderRadius: '8px', // Rounds the corners of the background
+                    padding: '0rem 2rem', // Adds padding around the text
+                    borderRadius: '34px', // Rounds the corners of the background
                     mixBlendMode: 'screen' // Optional: Blends the text with the image
                 }}
             >
