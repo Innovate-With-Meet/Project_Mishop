@@ -3,6 +3,15 @@ The Affected Features of the Wild Fire:
 1. temprature : range (-73 to 199 c)
     getting Affected temprature of the wild fire depend on the features 
 
+2. humidity : range (0% to 100%)
+    0% to 30% has the dry environment
+    30% to 60% has the ideal environment
+    60% to 100% has the cool environment
+
+model_target_temp = 35c to 40c is the high risk of the fire
+model_target_temp = 0% to 30% is the high risk of the fire
+
+ 
 Doubt: 90% wildfire cause by human activites so need to Prevents to spread accross area.
 1. Large Amount of campaing so the ratios is higher of the fire is higher of the season is dry.
 2. In the summer season the ratios is also higher in dry forest area.
