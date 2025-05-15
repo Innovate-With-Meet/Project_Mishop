@@ -3,4 +3,15 @@ The Affected Features of the Wild Fire:
 1. temprature : range (-73 to 199 c)
     getting Affected temprature of the wild fire depend on the features 
 
-Doubt: 90% wildfire cause by human activites so need to Prevents to spread accross area,
+Doubt: 90% wildfire cause by human activites so need to Prevents to spread accross area.
+1. Large Amount of campaing so the ratios is higher of the fire is higher of the season is dry.
+2. In the summer season the ratios is also higher in dry forest area.
+3. Dry area and with Human intervantion and high wind and high temprature is alos spread the wild fire.
+
+Aim: 
+1.To Predict the Wild Fire TO occured by Monitoring.
+2.If Fire is occured so what is the damages calculation of the area and neighbors.
+3.If Fire is occured so how many Fire Teams and Resources are needed to Prevents the Fire Based on the intensity of the Fire.
+4.If Fire occured How many lifes are been in dangor's in the forest and the neighbors both wildlife and human socity.
+5.All Anayses calculation If The Fire is occured so what is the damages- and next step and all other things need to do of the govt agencys.
+6.Etc.
