@@ -1,1 +1,6 @@
-Model Data
+The Affected Features of the Wild Fire:
+
+1. temprature : range (-73 to 199 c)
+    getting Affected temprature of the wild fire depend on the features 
+
+Doubt: 90% wildfire cause by human activites so need to Prevents to spread accross area,
